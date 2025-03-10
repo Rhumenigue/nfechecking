@@ -1,4 +1,4 @@
 # nfechecking
 
 
-Just an small project to store data from eletronic receipts
+Just a small project to store data from eletronic receipts
